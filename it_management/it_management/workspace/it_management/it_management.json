@@ -1,0 +1,194 @@
+{
+ "charts": [],
+ "content": "[{\"id\":\"rvWw5tOmr-\",\"type\":\"header\",\"data\":{\"text\":\"<span class=\\\"h4\\\">IT Management</span>\",\"col\":12}},{\"id\":\"N3gFzSY2tV\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"IT Landscape\",\"col\":3}},{\"id\":\"2TOU-JOaWv\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Solution\",\"col\":3}},{\"id\":\"OXOYmx64k5\",\"type\":\"shortcut\",\"data\":{\"shortcut_name\":\"Configuration Item\",\"col\":3}},{\"id\":\"t6TGLZq0-c\",\"type\":\"spacer\",\"data\":{\"col\":12}},{\"id\":\"191PzbKE7_\",\"type\":\"card\",\"data\":{\"card_name\":\"Configuration Management\",\"col\":4}},{\"id\":\"DmGPhMeSkM\",\"type\":\"card\",\"data\":{\"card_name\":\"Software\",\"col\":4}},{\"id\":\"dBuT9qFkgi\",\"type\":\"card\",\"data\":{\"card_name\":\"Locations\",\"col\":4}}]",
+ "creation": "2023-05-29 13:24:40.187081",
+ "docstatus": 0,
+ "doctype": "Workspace",
+ "for_user": "",
+ "hide_custom": 0,
+ "icon": "crm",
+ "idx": 0,
+ "is_hidden": 0,
+ "label": "IT Management",
+ "links": [
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Configuration Management",
+   "link_count": 5,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Configuration Item",
+   "link_count": 0,
+   "link_to": "Configuration Item",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Solution",
+   "link_count": 0,
+   "link_to": "Solution",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Solution Type",
+   "link_count": 0,
+   "link_to": "Solution Type",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Socket",
+   "link_count": 0,
+   "link_to": "Socket",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "IT Backup",
+   "link_count": 0,
+   "link_to": "IT Backup",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Software",
+   "link_count": 6,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Licence",
+   "link_count": 0,
+   "link_to": "Licence",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Software Instance",
+   "link_count": 0,
+   "link_to": "Software Instance",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "User Account",
+   "link_count": 0,
+   "link_to": "User Account",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "User Group",
+   "link_count": 0,
+   "link_to": "User Group",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Software Version",
+   "link_count": 0,
+   "link_to": "Software Version",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "IT Software",
+   "link_count": 0,
+   "link_to": "IT Software",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Locations",
+   "link_count": 1,
+   "onboard": 0,
+   "type": "Card Break"
+  },
+  {
+   "hidden": 0,
+   "is_query_report": 0,
+   "label": "Location Room",
+   "link_count": 0,
+   "link_to": "Location Room",
+   "link_type": "DocType",
+   "onboard": 0,
+   "type": "Link"
+  }
+ ],
+ "modified": "2023-05-29 13:32:49.174697",
+ "modified_by": "sammish.t@momscode.in",
+ "module": "IT Management",
+ "name": "IT Management",
+ "number_cards": [],
+ "owner": "sammish.t@momscode.in",
+ "parent_page": "",
+ "public": 1,
+ "quick_lists": [],
+ "roles": [],
+ "sequence_id": 31.0,
+ "shortcuts": [
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "IT Landscape",
+   "link_to": "IT Landscape",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Solution",
+   "link_to": "Solution",
+   "type": "DocType"
+  },
+  {
+   "color": "Grey",
+   "doc_view": "List",
+   "label": "Configuration Item",
+   "link_to": "Configuration Item",
+   "type": "DocType"
+  }
+ ],
+ "title": "IT Management"
+}
